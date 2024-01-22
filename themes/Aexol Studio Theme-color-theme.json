@@ -13,6 +13,26 @@
 			"foreground": "#c27f00"
 		}
 	},
+	"version": "0.0.1",
+	"keywords": [
+		"light theme",
+		"JavaScript",
+		"TypeScript",
+		"Node.js",
+		"API",
+		"modern",
+		"elegant",
+		"sleek",
+		"minimalist",
+		"Visual Studio Code",
+		"VSCode",
+		"coding",
+		"programming",
+		"development",
+		"web development",
+		"software engineering",
+		"Aexol"
+	],
 	"tokenColors": [
 		{
 			"name": "unison punctuation",
