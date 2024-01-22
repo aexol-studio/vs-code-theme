@@ -1,5 +1,9 @@
 # Aexol Studio Theme for VS Code.
 
+---
+### 📷 Preview screenshots!
+![TypeScript](./assets/screenshot.png)
+---
 ### 🚀 Installation
 
 Then paste the following command and press Enter:
@@ -29,10 +33,6 @@ From VS Code:
 2. Search for `Aexol Studio Theme`
 3. Click **Install** to install it
 4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Aexol Studio Theme`)
-
----
-### 📷 Preview screenshots!
-![TypeScript](./assets/screenshot.png)
 ---
 ### Override Theme Colors
 
