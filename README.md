@@ -6,7 +6,7 @@
 </picture>
 </a>
 
-*Theme for VS Code*
+### &nbsp;&nbsp;&nbsp;*Theme for VS Code*
 
 ## Table of contents
 
@@ -40,7 +40,6 @@ You can customize the **Aexol Studio Theme** colors by adding theme-specific set
 
 If you have some ideas on how to improve our theme just create an issue and we'll get on it ASAP!
 
----
 ## Find us!
 
 E-mail: [office@aexol.com](mailto:office@aexol.com)\
