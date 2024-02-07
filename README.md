@@ -1,58 +1,66 @@
-# Aexol Studio Theme for VS Code.
+<a href="https://aexol.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/Light.svg">
+  <img alt="Aexol Studio">
+</picture>
+</a>
 
----
-### 📷 Preview screenshots!
+*Theme for VS Code*
+
+## Table of contents
+
+-   [Example Screenshot](#example-screenshot)
+-   [Installation](#installation)
+-   [Customize Theme](#customize-theme)
+-   [Find us!](#find-us)
+-   [License](#license)
+
+### Example screenshot📷
 ![TypeScript](./assets/screenshot.png)
 ---
-### 🚀 Installation
+### Installation🚀
 
-Then paste the following command and press Enter:
+To install the theme use any of these methods:
+- go on our themes [marketplace page](https://marketplace.visualstudio.com/items?itemName=AexolStudio.aexol-studio-color-theme) and click install
+- open VS Code, click Extensions on the left toolbar (`View -> Extensions`), search for Aexol Studio Theme, select it and click install
+- enter this command into your VS Code terminal `ext install Aexol Studio Theme`
 
-```bash
-ext install Aexol Studio Theme
-```
-Launch Quick Open:
+The installation should be done in a few seconds, now you need to set it as your active color theme by using:
 
-- Linux Ctrl + Shift + P
+- Linux or Windows: Ctrl + Shift + P
 - macOS ⌘ + Shift + P
-- Windows Ctrl + Shift + P
 
-Type theme, choose `Preferences: Color Theme`, and select one of the **Aexol Studio Theme** variants from the list. Well done!
+This will open the Quick Open dropdown, now just type in 'theme', choose `Preferences: Color Theme`, and select one of the **Aexol Studio Theme** variants from the list. You should immediately see a change in how your VS Code looks like!
 
-
-> or
-
-1. Go to **Extensions** in the VS Code Activity Bar (`View -> Extensions`)
-2. Search for `Aexol Studio Theme`
-3. Click **Install** to install it
-4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Aexol Studio Theme`)
-
-From VS Code:
-
-1. Go to **Extensions** in the VS Code Activity Bar (`View -> Extensions`)
-2. Search for `Aexol Studio Theme`
-3. Click **Install** to install it
-4. Set the theme as your active color theme (`Cmd + Shift + P -> Preferences: Color Theme -> Aexol Studio Theme`)
 ---
-### Override Theme Colors
+### Customize Theme
 
-You can override the **Aexol Studio Theme** and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
+You can customize the **Aexol Studio Theme** colors by adding theme-specific settings to your configuration. For advanced customization please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme). If you want to you can also just fork the project since its open source.
 
-Something's missing ? Create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
+If you have some ideas on how to improve our theme just create an issue and we'll get on it ASAP!
 
 ---
 ## Find us!
 
-E-mail: [office@aexol.com](office@aexol.com 'Send an e-mail')\
+E-mail: [office@aexol.com](mailto:office@aexol.com)\
 Site: [https://aexol.com/](https://aexol.com/)  
 
 
-#### If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.
+#### If you like this project, let us know by leaving a star on this repository ❤️ ;)
 
-Best regards, Aexol Studio.
+Best regards,
+ 
+<a href="https://aexol.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/Light.svg">
+  <img alt="Aexol Studio">
+</picture>
+</a>
 
----
-## 📜 License
+
+## License📜
 
 This theme pack extension is released under the MIT License.\
-Copyright &copy; 2023 Aexol. All rights reserved.
+Copyright &copy; 2024 Aexol. All rights reserved.
